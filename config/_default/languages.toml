@@ -5,7 +5,18 @@
 # Configure the English version of the site.
 [en]
   languageCode = "en-us"
-  # contentDir = "content/en"  # Uncomment for multi-lingual sites, and move English content into `en` sub-folder.
+  contentDir = "content/en"  # Uncomment for multi-lingual sites, and move English content into `en` sub-folder.
+
+[ar]
+  languageCode = "ar"
+  contentDir = "content/ar"
+  title = "العنوان"
+  [ar.params]
+    description = "التفاصيل"
+  [[ar.menu.main]]
+    name = "القائمة"
+    url = "#about"
+    weight = 1
 
 # Uncomment the lines below to configure your website in a second language.
 #[zh]
