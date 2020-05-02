@@ -3,9 +3,9 @@
 widget = "portfolio"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
-weight = 65  # Order that this section will appear.
+weight = 22  # Order that this section will appear.
 
-title = "Projects"
+title = "Active Projects"
 subtitle = ""
 
 [content]
@@ -29,9 +29,9 @@ subtitle = ""
   #   name = "Deep Learning"
   #   tag = "Deep Learning"
   
-  # [[content.filter_button]]
-  #   name = "Other"
-  #   tag = "Demo"
+[[content.filter_button]]
+  name = "Other"
+  tag = "Demo"
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
@@ -73,5 +73,18 @@ subtitle = ""
  
  # CSS class.
  css_class = ""
+
+
+[[item]]
+  organization = "Coursera"
+  organization_url = "https://www.coursera.org"
+  title = "Neural Networks and Deep Learning"
+  url = ""
+  certificate_url = "https://www.coursera.org"
+  date_start = "2018-10-01"
+  date_end = ""
+  description = ""
+
+
 +++
 

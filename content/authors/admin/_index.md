@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Ali AlSaibie
+title: Ali AlSaibie, CEng
 
 # Username (this should match the folder name)
 authors:
@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Mechanical Engineering
+role: Assistant Professor of Mechanical Engineering
 
 # Organizations/Affiliations
 organizations:
@@ -18,7 +18,7 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: Interested in Mechatronics, Robotics, Applied Estimation and Control.
+bio: ....
 
 interests:
 - Mechatronics
@@ -44,16 +44,16 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
+  link: 'mailto:ali.alsaibie@ku.edu.kw'  # For a direct email link, use "mailto:test@example.org".
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/alialsaibie
-# - icon: google-scholar
-#   icon_pack: ai
-#   link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-# - icon: github
-#   icon_pack: fab
-#   link: https://github.com/gcushen
+- icon: linkedin-in
+  icon_pack: fab
+  link: https://www.linkedin.com/in/alsaibie
+- icon: github
+  icon_pack: fab
+  link: https://github.com/alsaibie
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -61,7 +61,7 @@ social:
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ""
+email: "ali.alsaibie@ku.edu.kw"
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
