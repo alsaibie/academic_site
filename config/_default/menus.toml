@@ -15,7 +15,7 @@
 
 [[main]]
   name = "Projects"
-  url = "#projects"
+  url = "#active_projects"
   weight = 30
 
 #[[main]]
@@ -27,7 +27,7 @@
   name = "Courses"
   url = "courses/"
   weight = 50
-  
+
 [[main]]
   name = "Contact"
   url = "#contact"

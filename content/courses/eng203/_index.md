@@ -2,7 +2,7 @@
 # Course title, summary, and position.
 linktitle: ENG 203 Dynamics 
 summary: Learn ..
-weight: 1
+weight: 9
 
 # Page metadata.
 title: Overview
