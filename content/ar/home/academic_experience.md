@@ -5,7 +5,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 40  # Order that this section will appear.
 
-title = "Academic Experience"
+title = "الخبرة الأكاديمية"
 subtitle = ""
 
 # Date format for experience
@@ -19,16 +19,16 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
   title = "Assistant Professor"
-  company = "Kuwait University"
+  company = "جامعة الكويت"
   company_url = "ku.edu.kw"
-  location = "Kuwait"
+  location = "الكويت"
   date_start = "2019-01-01"
   date_end = ""
   description = """"""
 
 [[experience]]
-  title = "Graduate Student"
-  company = "Goergia Institute of Technology"
+  title = "طالب دراسات عليا"
+  company = "كلية جورجيا التقنية"
   company_url = ""
   location = "California"
   date_start = "2016-01-01"
@@ -36,19 +36,19 @@ date_format = "Jan 2006"
   description = """"""
 
 [[experience]]
-  title = "Graduate Teaching Assistant"
-  company = "Goergia Institute of Technology"
+  title = "مساعد دكتور"
+  company = "كلية جورجيا التقنية"
   company_url = ""
-  location = "Georgia, USA"
+  location = "جورجيا، الولايات المتدحة الأمريكية"
   date_start = "2015-08-21"
   date_end = "2018-05-15"
   description = """
   """
 [[experience]]
-  title = "Team Leader"
-  company = "RescueBot Competition Group"
+  title = "قائد فريق"
+  company = "مسابقة روبوتات طلابية"
   company_url = ""
-  location = "Georgia, USA"
+  location = "جورجيا، الولايات المتدحة الأمريكية"
   date_start = "2013-08-21"
   date_end = "2017-12-31"
   description = """

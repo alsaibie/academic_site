@@ -5,7 +5,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 40  # Order that this section will appear.
 
-title = "Industrial Experience"
+title = "الخبرة المهنية"
 subtitle = ""
 
 # Date format for experience
@@ -20,39 +20,39 @@ date_format = "Jan 2006"
 [design.background]
   color = ""
 [[experience]]
-  title = "Discipline Mechanical Engineer"
-  company = "BP Plc"
+  title = "مهندس ميكانيكي متخصص"
+  company = "BP شركة"
   company_url = ""
-  location = "Muscat, Oman"
+  location = "مسقط، عمان"
   date_start = "2011-01-01"
   date_end = "2011-12-31"
   description = """
   """
 
 [[experience]]
-  title = "Discipline Mechanical Engineer"
-  company = "BP Plc"
+  title = "مهندس ميكانيكي متخصص"
+  company = "BP شركة"
   company_url = ""
-  location = "Sharjah, United Arab Emirates"
+  location = "الشارقة، الإمارات العربية المتحدة"
   date_start = "2008-08-15"
   date_end = "2010-12-31"
   description = """
   """
 
 [[experience]]
-  title = "Graduate Challenger"
-  company = "BP Plc"
+  title = "مهندس متدرب"
+  company = "BP شركة"
   company_url = ""
-  location = "Ain Amenas, Algeria"
+  location = "عين أميناس، الجزائر"
   date_start = "2007-09-01"
   date_end = "2008-08-14"
   description = """
   """
 [[experience]]
-  title = "Graduate Challenger"
-  company = "BP Plc"
+  title = "مهندس متدرب"
+  company = "BP شركة"
   company_url = ""
-  location = "Aberdeen, United Kingdom"
+  location = "أبردين، المملكة المتحدة"
   date_start = "2006-09-01"
   date_end = "2007-08-31"
   description = """

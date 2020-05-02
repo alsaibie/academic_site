@@ -84,10 +84,10 @@
 # About widget
 
 - id: interests
-  translation: الإهتمامات
+  translation: الإهتمامات البحثية
 
 - id: education
-  translation: التعليم
+  translation: المؤهلات العلمية
 
 - id: user_profile_latest
   translation: اخر
@@ -191,7 +191,7 @@
 # Default titles for archive pages
 
 - id: posts
-  translation: التعليقات
+  translation: التدوينات
 
 - id: publications
   translation: المنشورات
