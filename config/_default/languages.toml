@@ -18,15 +18,15 @@
       url = "#about"
       weight = 1
     [[ar.menu.main]]
-      name = "التدوينات"
+      name = "مقالات"
       url = "#posts"
       weight = 2
     [[ar.menu.main]]
-      name = "المشاريع النشطة"
+      name = "مشاريع حالية"
       url = "#active_projects"
       weight = 3
     [[ar.menu.main]]
-      name = "المواد التدريسية"
+      name = "مواد تدريسية"
       url = "../courses/"
       weight = 4
 

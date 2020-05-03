@@ -122,7 +122,7 @@ contact_links = [
 sharing_image = ""
 
 # Twitter username (without @). Used when a visitor shares your site on Twitter.
-twitter = ""
+twitter = "alialsaibie"
 
 ############################
 ## Regional Settings
@@ -181,6 +181,7 @@ plugins_js  = []
   de = {order = ['street', 'postcode', 'city'], delimiters = ['<br>', ' ', '']}
   fr-fr = {order = ['street', 'postcode', 'city'], delimiters = ['<br>', ' ', '']}
   zh = {order = ['postcode', 'region', 'city', 'street'], delimiters = [' ', ' ', ' ', '']}
+  ar = {order = ['streetAr', 'cityAr']}
 
 # Configuration of publication pages.
 [publications]

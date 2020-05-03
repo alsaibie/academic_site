@@ -119,7 +119,7 @@
 # Contact widget
 
 - id: contact_name
-  translation: الأسم
+  translation: الاسم
 
 - id: contact_email
   translation: البريد الإلكتروني
@@ -128,7 +128,7 @@
   translation: رسالة
 
 - id: contact_send
-  translation: إرسل الرسالة
+  translation: أرسل الرسالة
 
 - id: book_appointment
   translation: حجز موعد
@@ -148,7 +148,7 @@
   translation: التاريخ
 
 - id: last_updated
-  translation: اخر تحيث في
+  translation: اخر تحديث في
 
 - id: event
   translation: حدث
@@ -191,7 +191,7 @@
 # Default titles for archive pages
 
 - id: posts
-  translation: التدوينات
+  translation: المقالات
 
 - id: publications
   translation: المنشورات

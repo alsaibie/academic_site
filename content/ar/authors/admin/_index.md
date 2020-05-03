@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: مدرس جامعي في الهندسة الميكانيكية
+role: أستاذ مساعد في الهندسة الميكانيكية
 
 # Organizations/Affiliations
 organizations:
@@ -28,10 +28,10 @@ interests:
 education:
   courses:
   - course: دكتوراه في الهندسة الميكانيكية
-    institution: معهد جورجيا التقني
+    institution: معهد جورجيا للتكنولوجيا
     year: 2018
   - course: ماجستير في الهندسة الميكانيكية
-    institution: معهد جورجيا التقني
+    institution: معهد جورجيا للتكنولوجيا
     year: 2013
   - course: بكلريوس في الهندسة الميكانيكية
     institution: جامعة تكساس - أوستن

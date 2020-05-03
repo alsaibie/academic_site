@@ -10,7 +10,7 @@ subtitle = ""
 
 # Date format for experience
 #   Refer to https://sourcethemes.com/academic/docs/customization/#date-format
-date_format = "Jan 2006"
+date_format = "2006"
 
 # Experiences.
 #   Add/remove as many `[[experience]]` blocks below as you like.
@@ -21,18 +21,18 @@ date_format = "Jan 2006"
   color = ""
 [[experience]]
   title = "مهندس ميكانيكي متخصص"
-  company = "BP شركة"
-  company_url = ""
+  company = "شركة بي پي"
+  company_url = "https://www.bp.com/"
   location = "مسقط، عمان"
-  date_start = "2011-01-01"
+  date_start = "2010-12-31"
   date_end = "2011-12-31"
   description = """
   """
 
 [[experience]]
   title = "مهندس ميكانيكي متخصص"
-  company = "BP شركة"
-  company_url = ""
+  company = "شركة بي پي"
+  company_url = "https://www.bp.com/"
   location = "الشارقة، الإمارات العربية المتحدة"
   date_start = "2008-08-15"
   date_end = "2010-12-31"
@@ -41,8 +41,8 @@ date_format = "Jan 2006"
 
 [[experience]]
   title = "مهندس متدرب"
-  company = "BP شركة"
-  company_url = ""
+  company = "شركة بي پي"
+  company_url = "https://www.bp.com/"
   location = "عين أميناس، الجزائر"
   date_start = "2007-09-01"
   date_end = "2008-08-14"
@@ -50,8 +50,8 @@ date_format = "Jan 2006"
   """
 [[experience]]
   title = "مهندس متدرب"
-  company = "BP شركة"
-  company_url = ""
+  company = "شركة بي پي"
+  company_url = "https://www.bp.com/"
   location = "أبردين، المملكة المتحدة"
   date_start = "2006-09-01"
   date_end = "2007-08-31"

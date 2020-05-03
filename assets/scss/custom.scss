@@ -1,0 +1,14 @@
+// body:lang(ar) li, .exp-title, .exp-company, .exp-meta, p.course, .col-lg-8{ 
+//   direction: rtl;
+//   text-align: right; 
+// }
+
+body:lang(ar) { 
+  direction: rtl;
+  text-align: right; 
+}
+
+body:lang(ar)  .fa-ul{ 
+  direction: ltr;
+  text-align: right; 
+}
