@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Ali AlSaibie, CEng
+title: د. عـلـي الصيـبعي
 
 # Username (this should match the folder name)
 authors:
@@ -10,31 +10,31 @@ authors:
 superuser: true
 
 # Role/position
-role: Assistant Professor of Mechanical Engineering
+role: مدرس جامعي في الهندسة الميكانيكية
 
 # Organizations/Affiliations
 organizations:
-- name: Kuwait University
+- name: "جامعة الكويت"
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
 bio: ....
 
 interests:
-- Mechatronics
-- Robotics
-- Applied Estimation and Control
+- الميكاترونيكس
+- الروبوتكس
+- أتظمة التحكم والتقدير التطبيقية
 
 education:
   courses:
-  - course: Ph.D. in Mechanical Engineering
-    institution: Goergia Institute of Technology
+  - course: دكتوراه في الهندسة الميكانيكية
+    institution: معهد جورجيا التقني
     year: 2018
-  - course: Ms in Mechanical Engineering
-    institution: Goergia Institute of Technology
+  - course: ماجستير في الهندسة الميكانيكية
+    institution: معهد جورجيا التقني
     year: 2013
-  - course: Bs in Mechanical Engineering
-    institution: University of Texas at Austin
+  - course: بكلريوس في الهندسة الميكانيكية
+    institution: جامعة تكساس - أوستن
     year: 2006
 
 # Social/Academic Networking

@@ -10,13 +10,25 @@
 [ar]
   languageCode = "ar"
   contentDir = "content/ar"
-  title = "العنوان"
+  title = "علي الصيـبعي"
   [ar.params]
     description = "التفاصيل"
-  [[ar.menu.main]]
-    name = "القائمة"
-    url = "#about"
-    weight = 1
+    [[ar.menu.main]]
+      name = "الرئيسية"
+      url = "#about"
+      weight = 1
+    [[ar.menu.main]]
+      name = "التدوينات"
+      url = "#posts"
+      weight = 2
+    [[ar.menu.main]]
+      name = "المشاريع النشطة"
+      url = "#active_projects"
+      weight = 3
+    [[ar.menu.main]]
+      name = "المواد التدريسية"
+      url = "../courses/"
+      weight = 4
 
 # Uncomment the lines below to configure your website in a second language.
 #[zh]

@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Ali AlSaibie, CEng
+title: Ali AlSaibie, Ph.D, CEng
 
 # Username (this should match the folder name)
 authors:
