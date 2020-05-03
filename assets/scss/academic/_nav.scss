@@ -141,9 +141,9 @@
 @include media-breakpoint-down(md) {
   // Used in conjunction with mobile .navbar-brand to center logo on mobile.
   .navbar-brand-mobile-wrapper {
-    position: absolute;
-    left: 0;
-    right: 0;
+    position: relative;
+    left: 5px;
+    right: 5px;
   }
   .navbar-brand {
     // Center logo in mobile navbar.
